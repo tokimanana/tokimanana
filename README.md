@@ -1,0 +1,1 @@
+[![Angular Junior Certificate](https://img.shields.io/badge/Angular_Certified-Junior-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a1800fc3-2b84-4736-8190-631f863dd782)
