@@ -7,6 +7,9 @@
   <a href="https://certificates.dev/angular/certificates/a1800fc3-2b84-4736-8190-631f863dd782">
     <img src="https://img.shields.io/badge/Angular_Certified-Junior-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=7B1A1A" alt="Angular Junior Certificate" />
   </a>
+  <a href="https://committers.top/madagascar_public">
+    <img src="https://user-badge.committers.top/madagascar_public/tokimanana.svg" alt="committers.top Madagascar badge" />
+  </a>
   <a href="https://github.com/tokimanana">
     <img src="https://komarev.com/ghpvc/?username=tokimanana&style=flat-square&color=DD0031" alt="Profile views" />
   </a>
