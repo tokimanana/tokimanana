@@ -21,7 +21,7 @@
 
 Frontend developer with **~2 years of professional experience**, specializing in **Angular** (v12–19) and **NX monorepo** architecture. Currently working remotely at **Kreola Ltd** (Mauritius) while building **Runner**, a full Tour Operator System as solo frontend engineer.
 
-Focused on clean architecture, strict TypeScript, and production-grade Angular — working toward **Senior / Lead** level.
+Focused on clean architecture, strict TypeScript, and production-grade Angular — working toward **Senior / Lead** level. All projects are visible directly on this GitHub profile.
 
 ---
 
@@ -71,7 +71,7 @@ Focused on clean architecture, strict TypeScript, and production-grade Angular �
 ## 🏆 Certifications & Recognition
 
 - 🎓 **Angular Junior Certificate** — [certificates.dev](https://certificates.dev/angular/certificates/a1800fc3-2b84-4736-8190-631f863dd782)
-- ✍️ **Medium** — Articles on Angular architecture & challenges → [tokimanana](https://medium.com/@tokimanana)
+- ✍️ **Medium** — Articles on Angular architecture & challenges → [@tokimananasarobidy](https://medium.com/@tokimananasarobidy)
 
 ---
 
@@ -89,11 +89,11 @@ Focused on clean architecture, strict TypeScript, and production-grade Angular �
 ## 📬 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-sarobidy-70aa22282" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" width="100" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-contact-DD0031?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:tokimananasarobidy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tokimananasarobidy%40gmail.com-DD0031?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
